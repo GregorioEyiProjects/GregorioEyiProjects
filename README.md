@@ -31,9 +31,6 @@ I honed my technical skills through my studies in [**Spain**](https://centronels
 * **Git** - *Proficient*
 * **GitHub** - *Proficient*
 
-<!-- ### Stats -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GregorioEyiProjects&show_icons=true&theme=dracula)
-
 ---
 
 ## 🌐 Socials:
