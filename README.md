@@ -20,7 +20,7 @@ I honed my technical skills through my studies in [**Spain**](https://centronels
 ### Frameworks & Libraries
 * **Express** - *Intermediate*
 * **Spring Boot** - *Intermediate*
-* **React** - *Currently Learning* 🌱
+* **React** - *Intermediate* 
 * **Laravel** - *Familiar (used in a final project)*
 
 ### Databases
