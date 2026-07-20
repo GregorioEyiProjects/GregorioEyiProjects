@@ -10,8 +10,9 @@ I honed my technical skills through my studies in [**Spain**](https://centronels
 ## 🚀 Skills
 
 ### Programming Languages
-* **Flutter/Dart** - *Proficient*
-* **Node.js** - *Proficient*
+* **Reatjs** - *Intermediate*
+* **Flutter/Dart** - *Intermediate*
+* **Node.js** - *Intermediate*
 * **Kotlin Compose** - *Intermediate*
 * **Java** - *Intermediate*
 * **JavaScript** - *Intermediate*
